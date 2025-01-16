@@ -2,11 +2,11 @@ Here’s a combined and refined version of your `README.md` that keeps relevant 
 
 ---
 
-# Culture Heritage Alert System
+# PreservIT
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-The **Culture Heritage Alert System** enables locals to send alerts to admins about cultural heritage issues, allowing admins to address these alerts. It includes features like push notifications, real-time updates, and user authentication.
+The **Historical Heritage Alert System** enables locals to send alerts to admins about cultural heritage issues, allowing admins to address these alerts. It includes features like push notifications, real-time updates, and user authentication.
 
 ---
 
